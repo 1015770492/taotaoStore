@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.sun.rowset">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/com.sun.rowset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastdfs-client-java-1.27-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
